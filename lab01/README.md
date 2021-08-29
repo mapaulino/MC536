@@ -12,3 +12,9 @@ README.md      <- arquivo apresentando a tarefa
 
 # Aluno
 183465: Maria Angélica Lobo
+
+# Tarefa 1 sobre APIs de acesso
+[notebook](notebook/notebook.ipynb)
+
+# Tarefa 2 sobre Engenharia Reversa
+![](image/images.png)
